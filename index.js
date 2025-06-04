@@ -46,7 +46,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_371 = function() {
+(lib.CachedBmp_404 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
@@ -438,7 +438,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_370 = function() {
+(lib.CachedBmp_403 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(55);
 }).prototype = p = new cjs.Sprite();
@@ -599,35 +599,35 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_369 = function() {
+(lib.CachedBmp_402 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(78);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_368 = function() {
+(lib.CachedBmp_401 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(79);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_367 = function() {
+(lib.CachedBmp_400 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(80);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_366 = function() {
+(lib.CachedBmp_399 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(81);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_365 = function() {
+(lib.CachedBmp_398 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(82);
 }).prototype = p = new cjs.Sprite();
@@ -1754,7 +1754,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_364 = function() {
+(lib.CachedBmp_397 = function() {
 	this.initialize(ss["index_atlas_4"]);
 	this.gotoAndStop(46);
 }).prototype = p = new cjs.Sprite();
@@ -1768,7 +1768,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_363 = function() {
+(lib.CachedBmp_396 = function() {
 	this.initialize(ss["index_atlas_4"]);
 	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
@@ -1782,7 +1782,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_362 = function() {
+(lib.CachedBmp_395 = function() {
 	this.initialize(ss["index_atlas_4"]);
 	this.gotoAndStop(48);
 }).prototype = p = new cjs.Sprite();
@@ -2083,7 +2083,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_361 = function() {
+(lib.CachedBmp_394 = function() {
 	this.initialize(ss["index_atlas_5"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
@@ -3046,7 +3046,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.CachedBmp_370();
+	this.instance = new lib.CachedBmp_403();
 	this.instance.setTransform(2.2,6.25,0.5,0.5);
 
 	this.instance_1 = new lib.CachedBmp_299();
@@ -9539,7 +9539,7 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.CachedBmp_112();
 	this.instance.setTransform(14.2,0,0.5,0.5);
 
-	this.instance_1 = new lib.CachedBmp_364();
+	this.instance_1 = new lib.CachedBmp_397();
 	this.instance_1.setTransform(0,0.65,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).wait(1));
@@ -9565,7 +9565,7 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.CachedBmp_110();
 	this.instance.setTransform(14.2,0,0.5,0.5);
 
-	this.instance_1 = new lib.CachedBmp_363();
+	this.instance_1 = new lib.CachedBmp_396();
 	this.instance_1.setTransform(0,0.65,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).wait(1));
@@ -9613,7 +9613,7 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.CachedBmp_108();
 	this.instance.setTransform(14.2,0,0.5,0.5);
 
-	this.instance_1 = new lib.CachedBmp_362();
+	this.instance_1 = new lib.CachedBmp_395();
 	this.instance_1.setTransform(0,0.65,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).wait(1));
@@ -13686,7 +13686,7 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.CachedBmp_33();
 	this.instance.setTransform(84.05,0,0.5,0.5);
 
-	this.instance_1 = new lib.CachedBmp_361();
+	this.instance_1 = new lib.CachedBmp_394();
 	this.instance_1.setTransform(0,3,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).wait(1));
@@ -25602,7 +25602,7 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.ClipGroup_76();
 	this.instance.setTransform(-40.25,0,1,1,0,0,0,40.6,12.7);
 
-	this.instance_1 = new lib.CachedBmp_371();
+	this.instance_1 = new lib.CachedBmp_404();
 	this.instance_1.setTransform(-80.35,-12.05,0.5,0.5);
 
 	this.instance_2 = new lib.ClipGroup_146();
@@ -29867,7 +29867,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_22 = new lib.ClipGroup_85();
 	this.instance_22.setTransform(-829.3,-33.05,1,1,0,0,0,10.8,8.6);
 
-	this.instance_23 = new lib.CachedBmp_365();
+	this.instance_23 = new lib.CachedBmp_398();
 	this.instance_23.setTransform(-636.55,-27,0.5,0.5);
 
 	this.instance_24 = new lib.ClipGroup_97();
@@ -29876,13 +29876,13 @@ if (reversed == null) { reversed = false; }
 	this.instance_25 = new lib.CachedBmp_272();
 	this.instance_25.setTransform(-710.55,-45.35,0.5,0.5);
 
-	this.instance_26 = new lib.CachedBmp_366();
+	this.instance_26 = new lib.CachedBmp_399();
 	this.instance_26.setTransform(-636.55,-27,0.5,0.5);
 
-	this.instance_27 = new lib.CachedBmp_367();
+	this.instance_27 = new lib.CachedBmp_400();
 	this.instance_27.setTransform(-636.55,-27,0.5,0.5);
 
-	this.instance_28 = new lib.CachedBmp_368();
+	this.instance_28 = new lib.CachedBmp_401();
 	this.instance_28.setTransform(-636.55,-27,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20}]},1323).to({state:[{t:this.instance_24},{t:this.instance_26},{t:this.instance_22},{t:this.instance_21}]},15).to({state:[{t:this.instance_24},{t:this.instance_27},{t:this.instance_22},{t:this.instance_21}]},232).to({state:[{t:this.instance_24},{t:this.instance_28},{t:this.instance_22},{t:this.instance_21}]},92).to({state:[]},178).to({state:[]},456).wait(3));
@@ -30115,7 +30115,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_38.alpha = 0;
 	this.instance_38._off = true;
 
-	this.instance_39 = new lib.CachedBmp_369();
+	this.instance_39 = new lib.CachedBmp_402();
 	this.instance_39.setTransform(-634.95,-27.3,0.5,0.5);
 
 	this.instance_40 = new lib.ClipGroup_97();
@@ -31054,7 +31054,9 @@ if (reversed == null) { reversed = false; }
 				tempInput.focus();
 				tempInput.blur();
 				document.body.removeChild(tempInput);
-				document.body.style.zoom = "80%"
+				//document.body.style.zoom = "80%"
+				document.getElementById("viewportMeta").setAttribute("content", "width=device-width, initial-scale=1");
+		
 				
 				let equalInputValue = equalInputField.value.trim().toLowerCase();
 		
@@ -31203,7 +31205,7 @@ if (reversed == null) { reversed = false; }
 				tempInput.focus();
 				tempInput.blur();
 				document.body.removeChild(tempInput);
-				
+				document.body.style.zoom = "80%"
 				
 				let minInputValue = minInputField.value.trim().toLowerCase().replace(/\s+/g, '');
 				console.log('minInputValue:', minInputValue);
@@ -31339,7 +31341,7 @@ if (reversed == null) { reversed = false; }
 				tempInput.focus();
 				tempInput.blur();
 				document.body.removeChild(tempInput);
-				
+				document.body.style.zoom = "80%"
 				
 				let enterInputValue = enterInputField.value.trim();
 		
@@ -31481,7 +31483,7 @@ if (reversed == null) { reversed = false; }
 				tempInput.focus();
 				tempInput.blur();
 				document.body.removeChild(tempInput);
-				
+				document.body.style.zoom = "80%"
 				
 				let equalInputValue2 = equalInputField2.value.trim().toLowerCase();
 		
@@ -31618,7 +31620,7 @@ if (reversed == null) { reversed = false; }
 				tempInput.focus();
 				tempInput.blur();
 				document.body.removeChild(tempInput);
-				
+				document.body.style.zoom = "80%"
 				
 				let divInputValue = divInput.value.trim().toLowerCase().replace(/\s+/g, '');
 				console.log('divInputValue:', divInputValue);
@@ -31751,7 +31753,7 @@ if (reversed == null) { reversed = false; }
 				tempInput.focus();
 				tempInput.blur();
 				document.body.removeChild(tempInput);
-				
+				document.body.style.zoom = "80%"
 				
 				let enterInputValue2 = enterInputField2.value.trim();
 		
@@ -32959,21 +32961,21 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/index_atlas_1.png?1749031391235", id:"index_atlas_1"},
-		{src:"images/index_atlas_2.png?1749031391235", id:"index_atlas_2"},
-		{src:"images/index_atlas_3.png?1749031391236", id:"index_atlas_3"},
-		{src:"images/index_atlas_4.png?1749031391236", id:"index_atlas_4"},
-		{src:"images/index_atlas_5.png?1749031391237", id:"index_atlas_5"},
-		{src:"images/index_atlas_6.png?1749031391237", id:"index_atlas_6"},
-		{src:"components/lib/jquery-3.4.1.min.js?1749031392028", id:"lib/jquery-3.4.1.min.js"},
-		{src:"components/sdk/anwidget.js?1749031392028", id:"sdk/anwidget.js"},
-		{src:"components/ui/src/textinput.js?1749031392028", id:"an.TextInput"},
-		{src:"components/ui/src/textinput.js?1749031392028", id:"an.TextInput"},
-		{src:"components/ui/src/textinput.js?1749031392028", id:"an.TextInput"},
-		{src:"components/ui/src/textinput.js?1749031392028", id:"an.TextInput"},
-		{src:"components/ui/src/textinput.js?1749031392028", id:"an.TextInput"},
-		{src:"components/ui/src/textinput.js?1749031392028", id:"an.TextInput"},
-		{src:"components/ui/src/css.js?1749031392028", id:"an.CSS"}
+		{src:"images/index_atlas_1.png?1749033360508", id:"index_atlas_1"},
+		{src:"images/index_atlas_2.png?1749033360509", id:"index_atlas_2"},
+		{src:"images/index_atlas_3.png?1749033360509", id:"index_atlas_3"},
+		{src:"images/index_atlas_4.png?1749033360510", id:"index_atlas_4"},
+		{src:"images/index_atlas_5.png?1749033360510", id:"index_atlas_5"},
+		{src:"images/index_atlas_6.png?1749033360511", id:"index_atlas_6"},
+		{src:"components/lib/jquery-3.4.1.min.js?1749033361317", id:"lib/jquery-3.4.1.min.js"},
+		{src:"components/sdk/anwidget.js?1749033361317", id:"sdk/anwidget.js"},
+		{src:"components/ui/src/textinput.js?1749033361317", id:"an.TextInput"},
+		{src:"components/ui/src/textinput.js?1749033361317", id:"an.TextInput"},
+		{src:"components/ui/src/textinput.js?1749033361317", id:"an.TextInput"},
+		{src:"components/ui/src/textinput.js?1749033361317", id:"an.TextInput"},
+		{src:"components/ui/src/textinput.js?1749033361317", id:"an.TextInput"},
+		{src:"components/ui/src/textinput.js?1749033361317", id:"an.TextInput"},
+		{src:"components/ui/src/css.js?1749033361317", id:"an.CSS"}
 	],
 	preloads: []
 };
