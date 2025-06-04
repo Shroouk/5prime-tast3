@@ -8,6 +8,11 @@
 }
 
 
+      .shrink {
+        font-size: 80%;
+        scale: 1;
+      }
+
 .ui-textinput {
   background-color: transparent;
   text-align: center;
