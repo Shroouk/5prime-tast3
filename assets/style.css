@@ -7,6 +7,11 @@
   -moz-user-select: none;
 }
 
+input, textarea, select {
+    font-size: 22px !important; /* Prevents auto-zoom in iOS Safari */
+    transform: scale(1); /* Reset any scaling */
+}
+
 
 .ui-textinput {
   background-color: transparent;
